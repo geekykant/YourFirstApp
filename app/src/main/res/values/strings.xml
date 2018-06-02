@@ -1,0 +1,19 @@
+<resources>
+
+    <!--Homepage Strings-->
+    <string name="app_name">Rio Coffee Café</string>
+    <string name="store_address">Address: 22 Nelson St, Stepney SA 5069, Australia</string>
+    <string name="store_phoneno">Phone: +61 8 8362 3376</string>
+    <string name="store_timings">Sunday Closed \nMonday-Friday 9AM–5PM \nSaturday 9AM–12:30PM</string>
+    <string name="store_story">Rio Coffee Café, Roasted and blended by hand in the artisan tradition since 1964. Find the coffee that makes your day along with espresso machines and grinders to make it with.</string>
+    <string name="coffe_story2">Rio Coffee trains baristas, imports espresso machines and grinders, café supplies and consumables, which we sell directly. Because our specialty, actually, is delighting you.</string>
+    <string name="store_website">http://www.riocoffee.com.au/</string>
+    <string name="store_email">hello@casario.com.au</string>
+    <string name="address_heading">Address:</string>
+    <string name="about_us_heading">About Us:</string>
+    <string name="working_hours_heading">Working Hours:</string>
+    <string name="contact_us_heading">Contact us</string>
+    <string name="coffee_interior_description">Rio coffee reception area.</string>
+    <string name="coffee_logo_description">Rio Coffee Café logo</string>
+    <string name="coffee_outside_view_description">Rio coffee café outside view</string>
+</resources>
